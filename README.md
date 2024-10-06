@@ -45,7 +45,7 @@ Siga os passos abaixo para configurar o ambiente do projeto localmente:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-repositorio.git
+   git clone https://github.com/filho-flavio/API-PIPS.git
    cd seu-repositorio
    ```
 
